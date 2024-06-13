@@ -2,7 +2,7 @@
 // While this library may be used for internal projects, it should be considered academic.
 // This package explores and documents various methods related to geohashing.
 // See https://github.com/bbailey1024/geohash/blob/master/README.md for details and references.
-// If a production geohashing libary is required, consider https://github.com/mmcloughlin/geohash.
+// If a production geohashing library is required, consider https://github.com/mmcloughlin/geohash.
 package geohash
 
 import (
