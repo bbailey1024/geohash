@@ -1,4 +1,4 @@
-## Geohash
+## geohash
 
 A Go geohash library for encoding and decoding latitude and longitude coordinates to and from geohash strings or integers.
 
