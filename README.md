@@ -2,6 +2,9 @@
 
 A Go geohash library for encoding and decoding latitude and longitude coordinates to and from geohash strings or integers.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/bbailey1024/geohash.svg)](https://pkg.go.dev/github.com/bbailey1024/geohash)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bbailey1024/geohash)](https://goreportcard.com/report/github.com/bbailey1024/geohash)
+
 ## About
 
 This geohash library is largely academic and used to gain a functional understanding of the [geohash algorithm](https://en.wikipedia.org/wiki/Geohash). As such, function comments are very verbose. While this library may be suitable for import, there are other Go geohash libraries that are more mature, feature-rich, and actively maintained.
